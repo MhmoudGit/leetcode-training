@@ -6,4 +6,4 @@ const merge = (nums1, m, nums2, n) => {
     return sorted
 };
 
-console.log(merge([0],0 , [1], 1));
+console.log(merge([0],0 , [1], 1));  
